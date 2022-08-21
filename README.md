@@ -1,6 +1,5 @@
 ### 👋 Hi, I'm Jesse. 
 
-- 🙇‍♂️ Currently working on [Health Curious](https://healthcurious.com), a build-your-own platform for virtual care programs.
 - ⚛️ Theoretical physicist by training / fullstack developer by trade.
 - 🔭 Recovering Pythonista transitioning to Typescript.
 - 🗃 Zettelkasten nerd who occasionally writes plugins for Obsidian. 
