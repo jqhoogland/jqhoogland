@@ -1,7 +1,6 @@
 ### 👋 Hi, I'm Jesse. 
 
-- ⚛️ Theoretical physicist by training / fullstack developer by trade.
-- 🔭 Recovering Pythonista transitioning to Typescript.
+- ⚛️ Theoretical physicist by training / AI safety researcher by trade
 - 🗃 Zettelkasten nerd who occasionally writes plugins for Obsidian. 
 - 🗣 Language-learning nerd who speaks (from best to worst): English, Dutch, Portuguese/French, Spanish/Italian, German, & Turkish. 
 
