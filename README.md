@@ -6,7 +6,7 @@
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api?username=jqhoogland" />
+<!-- img src="https://github-readme-stats.vercel.app/api?username=jqhoogland" / -->
 
 ## AI 
 <div style="display:flex;flex-direction:row;overflow-y:scroll;">
