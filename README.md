@@ -6,12 +6,12 @@
 
 ---
 
-<!-- img src="https://github-readme-stats.vercel.app/api?username=jqhoogland" / -->
+<!--img src="https://github-readme-stats.vercel.app/api?username=jqhoogland" /-->
 
 ## AI 
 <div style="display:flex;flex-direction:row;overflow-y:scroll;">
-  <a href="https://github.com/jqhoogland/perturb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jqhoogland&repo=perturb" style="width:40%"/>
+  <a href="https://github.com/timaeus-research/devinterp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=timaeus-research&repo=devinterp" style="width:40%"/>
   </a>
   <a href="https://github.com/jqhoogland/experiminis">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jqhoogland&repo=experiminis" style="width:40%"/>
@@ -19,8 +19,8 @@
 <div>
 
 <div style="display:flex;flex-direction:row;overflow-y:scroll;">
-  <a href="https://github.com/jqhoogland/arena">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jqhoogland&repo=arena" style="width:40%"/>
+  <a href="https://github.com/jqhoogland/perturb">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jqhoogland&repo=perturb" style="width:40%"/>
   </a>
   <a href="https://github.com/jqhoogland/aligning-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jqhoogland&repo=aligning-ai" style="width:40%"/>
