@@ -19,8 +19,8 @@
 <div>
 
 <div style="display:flex;flex-direction:row;overflow-y:scroll;">
-  <a href="https://github.com/jqhoogland/perturb">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jqhoogland&repo=perturb" style="width:40%"/>
+  <a href="https://github.com/jqhoogland/llm-dj">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jqhoogland&repo=llm-dj" style="width:40%"/>
   </a>
   <a href="https://github.com/jqhoogland/aligning-ai">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=jqhoogland&repo=aligning-ai" style="width:40%"/>
