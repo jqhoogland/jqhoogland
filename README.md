@@ -1,9 +1,7 @@
 ### 👋 Hi, I'm Jesse. 
 
-- Executive director at [Timaeus](timaeus.co), working on applications of singular learning theory (SLT) to AI safety.
-- Theoretical physicist by training / AI safety researcher by trade
-- Zettelkasten nerd who occasionally writes plugins for Obsidian. 
-- Language-learning nerd who speaks (from best to worst): English, Dutch, Portuguese/French, Spanish/Italian, German, & Turkish. 
+- Cofounder ⊢ [Sequent Research](sequent.org)
+- Previously: Executive Director @ [Timaeus](timaeus.co)
 
 ---
 
