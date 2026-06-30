@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Jesse. 
 
-- Cofounder @ [Resolution](resolution.org)
-- Previously: Executive Director @ [Timaeus](timaeus.co)
+- Cofounder @ [Resolution](https://resolution.org)
+- Previously: Executive Director @ [Timaeus](https://timaeus.co)
 
 ---
 
