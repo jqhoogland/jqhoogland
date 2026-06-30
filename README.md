@@ -1,6 +1,6 @@
 ### 👋 Hi, I'm Jesse. 
 
-- Cofounder ⊢ [Sequent Research](sequent.org)
+- Cofounder @ [Resolution](resolution.org)
 - Previously: Executive Director @ [Timaeus](timaeus.co)
 
 ---
